@@ -32,5 +32,5 @@ Technologies:
 - Infrastructures => Docker & Podman & Nix
 - Réseaux => Caddy & Traefik
 - Bases de données => SQL & GraphQL & Drizzle
-- Frameworks => React
+- Frameworks => React & Tailwind
 - Langages => Typescript, HTML, CSS
