@@ -23,7 +23,7 @@ Technologies:
 - CMS => WordPress & Payload
 - Frontends => Next.js & Tanstack Start
 - Infrastructures => Docker & Podman & Nix
-- Réseau => Caddy & Traefik
+- Réseaux => Caddy & Traefik
 - Bases de données => SQL & GraphQL & Drizzle
 - Frameworks => React
 - Langages => Typescript, HTML, CSS
