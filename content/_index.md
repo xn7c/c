@@ -5,6 +5,8 @@ template = "index.html"
 
 ç is a web development and consulting service.
 
+See you!
+
 [Contact](mailto:info@xn--7ca.dev) | [Fr](/fr)
 <br /><br />
 
