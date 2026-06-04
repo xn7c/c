@@ -33,4 +33,4 @@ Technologies:
 - Networks => Caddy & Traefik
 - Databases => SQL & GraphQL & Drizzle
 - Frameworks => React & Tailwind
-- Languages => Typescript, HTML, CSS
+- Languages => Typescript & HTML & CSS
