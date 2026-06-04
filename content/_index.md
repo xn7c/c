@@ -23,7 +23,7 @@ I am good at:
  - Systems architecture
  - Project management
  - Consulting for digital ecosystems
- - Content-rich websites development
+ - Development of content-rich websites
 
 Technologies:
 
