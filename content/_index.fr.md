@@ -18,6 +18,13 @@ Projets récents:
 - [Équipe LMM](https://equipelmm.com/)
 - [Revue estuaire](https://revue-estuaire.com/)
 
+J'ai des aptitudes en :
+
+ - Architecture de systèmes
+ - Gestion de projets
+ - Consultation pour des écosystèmes numériques
+ - Développement de sites web à contenus riches
+
 Technologies:
 
 - CMS => WordPress & Payload

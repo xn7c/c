@@ -18,6 +18,13 @@ Recent Projects:
 - [Équipe LMM](https://equipelmm.com/)
 - [Revue estuaire](https://revue-estuaire.com/)
 
+I am good at:
+
+ - Systems architecture
+ - Project management
+ - Consulting for digital ecosystems
+ - Content-rich websites development
+
 Technologies:
 
 - CMS => WordPress & Payload
