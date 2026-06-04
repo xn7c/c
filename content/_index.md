@@ -18,10 +18,10 @@ Recent Projects:
 
 Technologies:
 
-- WordPress & Payload
-- Next.js & Tanstack
-- Docker & Podman
-- Caddy & Traefik
-- SQL & GraphQL
-- React
-- Typescript
+- CMS: WordPress & Payload
+- Frontends: Next.js & Tanstack Start
+- Infrastructures: Docker & Podman & Nix
+- Networks: Caddy & Traefik
+- Databases: SQL & GraphQL & Drizzle
+- Frameworks: React
+- Languages: Typescript, HTML, CSS
