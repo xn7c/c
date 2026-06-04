@@ -21,7 +21,7 @@ Recent Projects:
 I am good at:
 
  - Systems architecture
- - Project management
+ - Projects management
  - Consulting for digital ecosystems
  - Development of content-rich websites
 
