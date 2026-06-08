@@ -17,6 +17,7 @@ Projets récents:
 - [Multimodalité(s)](https://revuemultimodalites.com/)
 - [Équipe LMM](https://equipelmm.com/)
 - [Revue estuaire](https://revue-estuaire.com/)
+<br /><br />
 
 J'ai des aptitudes en :
 
