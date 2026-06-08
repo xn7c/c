@@ -17,6 +17,7 @@ Recent Projects:
 - [Multimodalité(s)](https://revuemultimodalites.com/)
 - [Équipe LMM](https://equipelmm.com/)
 - [Revue estuaire](https://revue-estuaire.com/)
+<br /><br />
 
 I am good at:
 
