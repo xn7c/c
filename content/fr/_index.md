@@ -3,7 +3,7 @@ title = "ç"
 template = "index.html"
 +++
 
-ç est un service de consultation et de développement web.
+ ç est un service de consultation et de développement web.
 
 Je vends du temps de travail prépayé à 90 CAD l'heure (des conditions s'appliquent).
 
