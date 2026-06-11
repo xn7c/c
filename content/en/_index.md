@@ -29,6 +29,7 @@ Recent Projects:
 
 I have worked with:
 
+- Ada X
 - Association des galeries d'art contemporain
 - Atelier le Fil d’Ariane
 - Croustille
@@ -38,6 +39,8 @@ I have worked with:
 - Fou du cochon
 - Galeries Weekend Montréal
 - Julia Borderie
+- Laboratoire ALN NT2
+- Laboratoire 1P1
 - Le Laps
 - Marie-Douce St-Jacques
 - Milutin Gubash
@@ -47,5 +50,5 @@ I have worked with:
 - Pilot Art List
 - Revue estuaire
 - Studio Feed
-- Ada X
+- Université du Québec à Montréal
 - Victor Arroyo
