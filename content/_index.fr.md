@@ -5,10 +5,20 @@ template = "index.html"
 
 ç est un service de consultation et de développement web.
 
+Je vends du temps de travail prépayé à 90 CAD l'heure (des conditions s'appliquent).
+
 À plus!
 
 [Contact](mailto:info@xn--7ca.dev) | [En](/)
 <br /><br />
+
+J'ai des aptitudes en :
+
+ - Développement de sites web à contenus riches
+ - Gestion de projets
+ - Consultation pour des écosystèmes numériques
+ - Architecture de systèmes
+ <br /><br />
 
 Projets récents:
 
@@ -19,9 +29,26 @@ Projets récents:
 - [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
-J'ai des aptitudes en :
+J'ai travaillé avec:
 
- - Architecture de systèmes
- - Gestion de projets
- - Consultation pour des écosystèmes numériques
- - Développement de sites web à contenus riches
+- Association des galeries d'art contemporain
+- Atelier le Fil d’Ariane
+- Croustille
+- Distilleries du Québec
+- Document original
+- Équipe LMM
+- Fou du cochon
+- Galeries Weekend Montréal
+- Julia Borderie
+- Le Laps
+- Marie-Douce St-Jacques
+- Milutin Gubash
+- Multimodalité(s)
+- Natascha Niederstrass
+- perte de signal
+- Principal
+- Pilot Art List
+- Revue estuaire
+- Studio Feed
+- Ada X
+- Victor Arroyo
