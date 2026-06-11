@@ -44,7 +44,6 @@ I have worked with:
 - Multimodalité(s)
 - Natascha Niederstrass
 - perte de signal
-- Principal
 - Pilot Art List
 - Revue estuaire
 - Studio Feed
