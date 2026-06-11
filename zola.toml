@@ -12,6 +12,8 @@ build_search_index = false
 [markdown.highlighting]
 theme = "catppuccin-mocha"
 
+[languages.en]
+
 [languages.fr]
 
 [extra]
