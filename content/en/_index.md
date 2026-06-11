@@ -18,7 +18,7 @@ I am good at:
  - Systems architecture
 <br /><br />
 
-Recent Projects:
+Selected projects:
 
 - [Document original](https://www.documentoriginal.com/en)
 - [Équipe LMM](https://equipelmm.com/)
@@ -27,7 +27,7 @@ Recent Projects:
 - [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
- A selection of collaborations:
+ Selected collaborations:
 
 - [Association des galeries d'art contemporain](https://www.agac.ca/en/)
 - [Croustille](https://croustille.io/en)

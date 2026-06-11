@@ -18,7 +18,7 @@ J'ai des aptitudes en :
  - Architecture de systèmes
  <br /><br />
 
-Projets récents :
+Projets sélectionnés :
 
 - [Document original](https://www.documentoriginal.com/fr)
 - [Équipe LMM](https://equipelmm.com/)
@@ -27,7 +27,7 @@ Projets récents :
 - [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
-Une sélection de collaborations :
+Collaborations sélectionnées :
 
 - [Association des galeries d'art contemporain](https://www.agac.ca/)
 - [Croustille](https://croustille.io/)
