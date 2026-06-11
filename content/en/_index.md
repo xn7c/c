@@ -27,28 +27,10 @@ Recent Projects:
 - [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
-I have worked with:
+ A selection of past collaborations:
 
-- Ada X
 - Association des galeries d'art contemporain
-- Atelier le Fil d’Ariane
 - Croustille
-- Distilleries du Québec
-- Document original
-- Équipe LMM
-- Fou du cochon
-- Galeries Weekend Montréal
-- Julia Borderie
-- Laboratoire ALN NT2
-- Laboratoire 1P1
-- Le Laps
-- Marie-Douce St-Jacques
-- Milutin Gubash
-- Multimodalité(s)
-- Natascha Niederstrass
 - perte de signal
-- Pilot Art List
-- Revue estuaire
 - Studio Feed
 - Université du Québec à Montréal
-- Victor Arroyo
