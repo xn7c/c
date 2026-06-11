@@ -21,16 +21,16 @@ J'ai des aptitudes en :
 Projets récents :
 
 - [Document original](https://www.documentoriginal.com/fr)
-- [Pilot Art List](https://pilotartlist.com/)
-- [Multimodalité(s)](https://revuemultimodalites.com/)
 - [Équipe LMM](https://equipelmm.com/)
+- [Multimodalité(s)](https://revuemultimodalites.com/)
+- [Pilot Art List](https://pilotartlist.com/)
 - [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
-Une sélection de collaborations antérieures :
+Une sélection de collaborations :
 
-- Association des galeries d'art contemporain
-- Croustille
-- perte de signal
-- Studio Feed
-- Université du Québec à Montréal
+- [Association des galeries d'art contemporain](https://www.agac.ca/)
+- [Croustille](https://croustille.io/)
+- [perte de signal](https://perte-de-signal.org/)
+- [Studio Feed](https://www.studiofeed.ca/)
+- [Laboratoire 1P1](https://1p1.uqam.ca/)
