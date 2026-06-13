@@ -2,11 +2,6 @@
 
 pkgs.mkShell {
   packages = with pkgs; [
-    marksman
-    nil
-    prettier
-    taplo
-    vscode-langservers-extracted
     zola
   ];
 }
