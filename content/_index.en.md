@@ -18,6 +18,7 @@ I am good at:
  - Projects management
  - Consulting for digital ecosystems
  - Systems architecture
+ - Typescript
 <br /><br />
 
 Selected projects:

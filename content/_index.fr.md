@@ -18,6 +18,7 @@ J'ai des aptitudes en :
  - Gestion de projets
  - Consultation pour des écosystèmes numériques
  - Architecture de systèmes
+ - Typescript
  <br /><br />
 
 Projets sélectionnés :
