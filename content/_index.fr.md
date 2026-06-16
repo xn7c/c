@@ -33,5 +33,6 @@ Collaborations sélectionnées :
 - [perte de signal](https://perte-de-signal.org/)
 - [Studio Feed](https://www.studiofeed.ca/)
 - [Laboratoire 1P1](https://1p1.uqam.ca/)
+<br /><br />
 
 À plus!
