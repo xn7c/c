@@ -12,7 +12,6 @@ J'ai des aptitudes en :
 
  - Développement de sites web à contenus riches
  - Gestion de projets
- - Consultation pour des écosystèmes numériques
  - Architecture de systèmes
  - Programmation Typescript
  <br /><br />

@@ -12,7 +12,6 @@ I am good at:
 
  - Development of content-rich websites
  - Projects management
- - Consulting for digital ecosystems
  - Systems architecture
  - Typescript programming
 <br /><br />
