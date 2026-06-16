@@ -7,7 +7,7 @@ template = "index.html"
 
 See you!
 
-[Contact](mailto:info@xn--7ca.dev) | [Fr](/fr)
+[Contact](mailto:c.radio835@simplelogin.com) | [Fr](/fr)
 <br /><br />
 
 I am good at:
