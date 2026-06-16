@@ -5,8 +5,6 @@ template = "index.html"
 
 ç is a web development and consulting service.
 
-See you!
-
 [Contact](mailto:c.radio835@simplelogin.com) | [Fr](/fr)
 <br /><br />
 
@@ -28,10 +26,12 @@ Selected projects:
 - [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
- Selected collaborations:
+Selected collaborations:
 
 - [Association des galeries d'art contemporain](https://www.agac.ca/en/)
 - [Croustille](https://croustille.io/en)
 - [perte de signal](https://perte-de-signal.org/en/)
 - [Studio Feed](https://www.studiofeed.ca/en)
 - [Laboratoire 1P1](https://1p1.uqam.ca/)
+
+See you!

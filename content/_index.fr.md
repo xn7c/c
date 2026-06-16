@@ -5,8 +5,6 @@ template = "index.html"
 
 ç est un service de consultation et de développement web.
 
-À plus!
-
 [Contact](mailto:c.radio835@simplelogin.com) | [En](/)
 <br /><br />
 
@@ -35,3 +33,5 @@ Collaborations sélectionnées :
 - [perte de signal](https://perte-de-signal.org/)
 - [Studio Feed](https://www.studiofeed.ca/)
 - [Laboratoire 1P1](https://1p1.uqam.ca/)
+
+À plus!
