@@ -3,7 +3,7 @@ title = "ç"
 template = "index.html"
 +++
 
-ç is a web development and consulting service.
+ç is a web development and translation service.
 
 [Contact](mailto:c.radio835@simplelogin.com) | [Fr](/fr)
 <br /><br />
@@ -11,27 +11,21 @@ template = "index.html"
 I am good at:
 
  - Development of content-rich websites
+ - Translation from english to french
  - Projects management
- - Systems architecture
+ - Architecture of digital systems
  - Typescript programming
 <br /><br />
 
 Selected projects:
 
-- [Document original](https://www.documentoriginal.com/en)
-- [Équipe LMM](https://equipelmm.com/)
-- [Multimodalité(s)](https://revuemultimodalites.com/)
-- [Pilot Art List](https://pilotartlist.com/)
-- [Revue estuaire](https://revue-estuaire.com/)
-<br /><br />
-
-Selected collaborations:
-
-- [Association des galeries d'art contemporain](https://www.agac.ca/en/)
-- [Croustille](https://croustille.io/en)
-- [perte de signal](https://perte-de-signal.org/en/)
-- [Studio Feed](https://www.studiofeed.ca/en)
-- [Laboratoire 1P1](https://1p1.uqam.ca/)
+- [Carmine's Room : In twenty five years she'll be silver](https://carminesroom.com/) (french translation)
+- [Pangée : Half Hitch](https://pangeepangee-fr.com/betty-pomerleau)(https://pangeepangee-fr.com/betty-pomerleau)(french translation)
+- [Document original (bilingual website)](https://www.documentoriginal.com/en)
+- [Équipe LMM (website)](https://equipelmm.com/)
+- [Multimodalité(s) (website)](https://revuemultimodalites.com/)
+- [Pilot Art List (bilingual website)](https://pilotartlist.com/)
+- [Revue estuaire (website)](https://revue-estuaire.com/)
 <br /><br />
 
 See you!
