@@ -20,7 +20,7 @@ J'ai des aptitudes en :
 Projets sélectionnés :
 
 - [Carmine's Room : In twenty five years she'll be silver](https://carminesroom.com/) (traduction française)
-- [Pangée : Deux demi-clés](https://pangeepangee-fr.com/betty-pomerleau)(https://pangeepangee-fr.com/betty-pomerleau)(traduction française)
+- [Pangée : Deux demi-clés](https://pangeepangee-fr.com/betty-pomerleau)(traduction française)
 - [Document original (site web bilingue)](https://www.documentoriginal.com/fr)
 - [Équipe LMM (site web)](https://equipelmm.com/)
 - [Multimodalité(s) (site web)](https://revuemultimodalites.com/)

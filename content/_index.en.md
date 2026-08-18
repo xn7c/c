@@ -20,7 +20,7 @@ I am good at:
 Selected projects:
 
 - [Carmine's Room : In twenty five years she'll be silver](https://carminesroom.com/) (french translation)
-- [Pangée : Half Hitch](https://pangeepangee-fr.com/betty-pomerleau)(https://pangeepangee-fr.com/betty-pomerleau)(french translation)
+- [Pangée : Half Hitch](https://pangeepangee-fr.com/betty-pomerleau)(french translation)
 - [Document original (bilingual website)](https://www.documentoriginal.com/en)
 - [Équipe LMM (website)](https://equipelmm.com/)
 - [Multimodalité(s) (website)](https://revuemultimodalites.com/)
