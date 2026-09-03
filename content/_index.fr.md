@@ -12,14 +12,13 @@ J'ai des aptitudes en :
 
  - Développement de sites web à contenus riches
  - Traduction de l'anglais vers le français
- - Gestion de projets
- - Architecture de systèmes numériques
+ - Architecture backend et frontend
  - Programmation Typescript
  <br /><br />
 
 Projets sélectionnés :
 
-- [Carmine's Room : In twenty-five years she'll be silver (traduction française)](https://carminesroom.com/)
+- [Carmine's Room : In twenty-five years she'll be silver (traduction française)](https://freight.cargo.site/m/S3098026273236339427126632073397/Cindy-Hill_Final-Text_FR_2026.pdf)
 - [Pangée : Deux demi-clés (traduction française)](https://pangeepangee-fr.com/betty-pomerleau)
 - [Document original (site web bilingue)](https://www.documentoriginal.com/fr)
 - [Équipe LMM (site web)](https://equipelmm.com/)
