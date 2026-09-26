@@ -3,7 +3,7 @@ title = "ç"
 template = "index.html"
 +++
 
-ç is a web development and translation service.
+ç is a software engineering service for the web.
 
 [Contact](mailto:c.radio835@simplelogin.com) | [Fr](/fr)
 <br /><br />
@@ -11,15 +11,13 @@ template = "index.html"
 I am good at:
 
  - Development of content-rich websites
- - Translation from english to french
  - Backend and frontend architecture
+ - Integration and automation of software operations
  - Typescript programming
 <br /><br />
 
 Selected projects:
 
-- [Carmine's Room: In twenty-five years she'll be silver (french translation)](https://freight.cargo.site/m/S3098026273236339427126632073397/Cindy-Hill_Final-Text_FR_2026.pdf)
-- [Pangée: Half Hitch (french translation)](https://pangeepangee-fr.com/betty-pomerleau)
 - [Document original (bilingual website)](https://www.documentoriginal.com/en)
 - [Équipe LMM (website)](https://equipelmm.com/)
 - [Multimodalité(s) (website)](https://revuemultimodalites.com/)
