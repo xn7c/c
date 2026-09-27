@@ -10,9 +10,8 @@ template = "index.html"
 
 I am good at:
 
- - Development of content-rich websites
- - Backend and frontend architecture
- - Integration and automation of software operations
+ - Building content-rich websites
+ - Architecture, maintenance and deployment of applications
  - Typescript programming
 <br /><br />
 
