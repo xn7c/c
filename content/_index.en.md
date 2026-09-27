@@ -18,11 +18,11 @@ I am good at:
 
 Selected projects:
 
-- [Document original (bilingual website)](https://www.documentoriginal.com/en)
-- [Équipe LMM (website)](https://equipelmm.com/)
-- [Multimodalité(s) (website)](https://revuemultimodalites.com/)
-- [Pilot Art List (bilingual website)](https://pilotartlist.com/)
-- [Revue estuaire (website)](https://revue-estuaire.com/)
+- [Document original](https://www.documentoriginal.com/en)
+- [Équipe LMM](https://equipelmm.com/)
+- [Multimodalité(s)](https://revuemultimodalites.com/)
+- [Pilot Art List](https://pilotartlist.com/)
+- [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
 See you!

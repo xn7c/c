@@ -18,11 +18,11 @@ J'ai des aptitudes en :
 
 Projets sélectionnés :
 
-- [Document original (site web bilingue)](https://www.documentoriginal.com/fr)
-- [Équipe LMM (site web)](https://equipelmm.com/)
-- [Multimodalité(s) (site web)](https://revuemultimodalites.com/)
-- [Pilot Art List (site web bilingue)](https://pilotartlist.com/)
-- [Revue estuaire (site web)](https://revue-estuaire.com/)
+- [Document original](https://www.documentoriginal.com/fr)
+- [Équipe LMM](https://equipelmm.com/)
+- [Multimodalité(s)](https://revuemultimodalites.com/)
+- [Pilot Art List](https://pilotartlist.com/)
+- [Revue estuaire](https://revue-estuaire.com/)
 <br /><br />
 
 À plus!
