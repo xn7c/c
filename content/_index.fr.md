@@ -10,7 +10,7 @@ template = "index.html"
 
 J'ai des aptitudes en :
 
- - Construire des sites web à contenus riches
+ - Construction de sites web à contenus riches
  - Architecture, maintenance et déploiement d'applications
  - Programmation Typescript
  <br /><br />
