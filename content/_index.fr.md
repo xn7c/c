@@ -12,7 +12,7 @@ J'ai des aptitudes en :
 
  - Développement de sites web à contenus riches
  - Architecture backend et frontend
- - Intégration et automation d'opération logicielles
+ - Intégration et automatisation d'opérations logicielles
  - Programmation Typescript
  <br /><br />
 
