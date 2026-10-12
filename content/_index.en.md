@@ -16,13 +16,19 @@ I am good at:
  - Typescript programming
 <br /><br />
 
-Selected projects:
+Selected web projects:
 
 - [Document original](https://www.documentoriginal.com/en)
 - [Équipe LMM](https://equipelmm.com/)
 - [Multimodalité(s)](https://revuemultimodalites.com/)
 - [Pilot Art List](https://pilotartlist.com/)
 - [Revue estuaire](https://revue-estuaire.com/)
+<br /><br />
+
+Selected translation projects:
+
+- [Carmine's Room : In twenty-five years she'll be silver](https://carminesroom.com/)
+- [Pangée : Half Hitch](https://pangeepangee-fr.com/betty-pomerleau)
 <br /><br />
 
 See you!
