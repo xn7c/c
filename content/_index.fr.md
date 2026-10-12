@@ -3,15 +3,16 @@ title = "ç"
 template = "index.html"
 +++
 
-ç est un service d'ingénérie logicielle pour le web.
+ç est un service de traduction et d’ingénérie logicielle.
 
 [Contact](mailto:c.radio835@simplelogin.com) | [En](/)
 <br /><br />
 
-J'ai des aptitudes en :
+J’ai des aptitudes en :
 
- - Construction de sites web à contenus riches
- - Architecture, maintenance et déploiement d'applications
+ - Construction de sites web bilingues à contenus riches
+ - Traduction de de l’anglais au français
+ - Architecture, maintenance et déploiement d’applications
  - Programmation Typescript
  <br /><br />
 

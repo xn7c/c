@@ -3,14 +3,15 @@ title = "ç"
 template = "index.html"
 +++
 
-ç is a software engineering service for the web.
+ç is a translation and software engineering service.
 
 [Contact](mailto:c.radio835@simplelogin.com) | [Fr](/fr)
 <br /><br />
 
 I am good at:
 
- - Building content-rich websites
+ - Building bilingual content-rich websites
+ - Translation from english to french
  - Architecture, maintenance and deployment of applications
  - Typescript programming
 <br /><br />
