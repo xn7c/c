@@ -27,6 +27,7 @@ Projets web sélectionnés :
 
 Projets de traduction sélectionnés :
 
+- [Carmine's Room - We name things too early](https://carminesroom.com/)
 - [Carmine's Room - In twenty-five years she'll be silver](https://freight.cargo.site/m/S3098026273236339427126632073397/Cindy-Hill_Final-Text_FR_2026.pdf)
 - [Pangée - Deux demi-clés](https://pangeepangee-fr.com/betty-pomerleau)
 <br /><br />
